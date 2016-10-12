@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Documents/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/Documents/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Documents/spring-framework-4.3.2.RELEASE-dist/spring-framework-4.3.2.RELEASE/libs/spring-aspects-4.3.2.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/spring-framework-4.3.2.RELEASE-dist/spring-framework-4.3.2.RELEASE/libs/spring-context-support-4.3.2.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/spring-framework-4.3.2.RELEASE-dist/spring-framework-4.3.2.RELEASE/libs/spring-beans-4.3.2.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/spring-framework-4.3.2.RELEASE-dist/spring-framework-4.3.2.RELEASE/libs/spring-instrument-4.3.2.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/spring-framework-4.3.2.RELEASE-dist/spring-framework-4.3.2.RELEASE/libs/spring-expression-4.3.2.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/spring-framework-4.3.2.RELEASE-dist/spring-framework-4.3.2.RELEASE/libs/spring-aop-4.3.2.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/spring-framework-4.3.2.RELEASE-dist/spring-framework-4.3.2.RELEASE/libs/spring-instrument-tomcat-4.3.2.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/spring-framework-4.3.2.RELEASE-dist/spring-framework-4.3.2.RELEASE/libs/spring-core-4.3.2.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/spring-framework-4.3.2.RELEASE-dist/spring-framework-4.3.2.RELEASE/libs/spring-context-4.3.2.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/spring-framework-4.3.2.RELEASE-dist/spring-framework-4.3.2.RELEASE/libs/spring-jdbc-4.3.2.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/spring-framework-4.3.2.RELEASE-dist/spring-framework-4.3.2.RELEASE/libs/spring-jms-4.3.2.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/spring-framework-4.3.2.RELEASE-dist/spring-framework-4.3.2.RELEASE/libs/spring-messaging-4.3.2.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/spring-framework-4.3.2.RELEASE-dist/spring-framework-4.3.2.RELEASE/libs/spring-orm-4.3.2.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/spring-framework-4.3.2.RELEASE-dist/spring-framework-4.3.2.RELEASE/libs/spring-oxm-4.3.2.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/spring-framework-4.3.2.RELEASE-dist/spring-framework-4.3.2.RELEASE/libs/spring-test-4.3.2.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/spring-framework-4.3.2.RELEASE-dist/spring-framework-4.3.2.RELEASE/libs/spring-tx-4.3.2.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/spring-framework-4.3.2.RELEASE-dist/spring-framework-4.3.2.RELEASE/libs/spring-web-4.3.2.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/spring-framework-4.3.2.RELEASE-dist/spring-framework-4.3.2.RELEASE/libs/spring-webmvc-4.3.2.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/spring-framework-4.3.2.RELEASE-dist/spring-framework-4.3.2.RELEASE/libs/spring-webmvc-portlet-4.3.2.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/spring-framework-4.3.2.RELEASE-dist/spring-framework-4.3.2.RELEASE/libs/spring-websocket-4.3.2.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
