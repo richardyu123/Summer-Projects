@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [31/Aug/2016:15:51:54 -0400] "GET /SpringMVCAnnotationShoppingCart HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [31/Aug/2016:15:53:07 -0400] "GET /SpringMVCAnnotationShoppingCart HTTP/1.1" 404 - http-bio-8080-exec-1 0

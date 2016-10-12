@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [24/Aug/2016:15:43:02 -0400] "GET / HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [24/Aug/2016:15:43:25 -0400] "GET /Springmvcjdbctemplate HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [24/Aug/2016:15:43:48 -0400] "GET /SpringMvcJdbcTemplate HTTP/1.1" 302 - http-bio-8080-exec-5 0
+0:0:0:0:0:0:0:1 - - [24/Aug/2016:15:43:48 -0400] "GET /SpringMvcJdbcTemplate/ HTTP/1.1" 500 53803 http-bio-8080-exec-7 177
