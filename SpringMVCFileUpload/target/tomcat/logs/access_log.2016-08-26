@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [26/Aug/2016:15:51:51 -0400] "GET /SpringMVCFileUpload/uploadOneFile HTTP/1.1" 200 855 http-bio-8080-exec-1 2393
+0:0:0:0:0:0:0:1 - - [26/Aug/2016:15:52:00 -0400] "POST /SpringMVCFileUpload/uploadOneFile HTTP/1.1" 200 502 http-bio-8080-exec-2 382
